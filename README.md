@@ -4,4 +4,4 @@ Bloque de GAP de la asignatura [Software Matemáticas](http://masteres.ugr.es/do
 
 Parte de este curso está inspirado en el [curso](http://www.ugr.es/~pedro/gap/) que di en Badajoz en 2009.
 
-El fichero Dockerfile está extraido del [ejemplo binder](https://github.com/sebasguts/GAPBinderDemo) de @sebasguts para GAP y vis.js.
+El fichero Dockerfile está extraido del [ejemplo binder](https://github.com/sebasguts/GAPBinderDemo) de [@sebasguts](https://github.com/sebasguts) para GAP y [vis.js](http://visjs.org).
