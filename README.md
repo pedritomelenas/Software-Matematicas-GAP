@@ -8,6 +8,6 @@ Parte de este curso está inspirado en el [curso](http://www.ugr.es/~pedro/gap/)
 
 El fichero Dockerfile está extraido del [ejemplo binder](https://github.com/sebasguts/GAPBinderDemo) de [@sebasguts](https://github.com/sebasguts) para GAP y [vis.js](http://visjs.org). Sebastian Gutsche también está experimentando con páginas del manual reproducibles. Por ejemplo, el tutorial se puede encontrar [aquí](https://sebasguts.github.io/GAPLiveTutorialTest/chap0.html).
 
-Estos blocs se pueden ejecutar en 
+Para escribir código podéis utilizat [Visual Studio Code](https://code.visualstudio.com).
 
-[![Binder](http://mybinder.org/assets/images/logo.svg)](https://beta.mybinder.org/v2/gh/pedritomelenas/Software-Matematicas-GAP/master)
+Estos blocs se pueden ejecutar en [**Binder**](https://beta.mybinder.org/v2/gh/pedritomelenas/Software-Matematicas-GAP/master).
