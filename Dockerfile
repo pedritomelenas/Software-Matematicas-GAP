@@ -1,4 +1,4 @@
-FROM gapsystem/gap-docker-master
+FROM gapsystem/gap-docker-jupyter
 
 MAINTAINER Sebastian Gutsche <sebastian.gutsche@gmail.com>
 
