@@ -1,5 +1,3 @@
-FROM gapsystem/gap-docker-jupyter
-
-MAINTAINER Sebastian Gutsche <sebastian.gutsche@gmail.com>
+FROM gapsystem/gap-docker-master:francy
 
 COPY . /home/gap
