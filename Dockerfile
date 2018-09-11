@@ -1,4 +1,4 @@
-FROM sebasguts/gapbinder:20171020
+FROM gapsystem/gap-docker-master
 
 MAINTAINER Sebastian Gutsche <sebastian.gutsche@gmail.com>
 
