@@ -12,9 +12,7 @@ RUN jupyter-nbextension enable rise --user --py
 
 RUN jupyter-nbextension enable jupyter_francy --user --py
 
-RUN cd inst/gap-*
-
-RUN cd pkg
+RUN cd inst/gap-*/pkg
 
 RUN git clone https://github.com/nathancarter/jupyterviz.git
 
