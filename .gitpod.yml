@@ -1,1 +1,1 @@
-image: gapsystem:gap-docker-master
+image: gapsystem/gap-docker-master
