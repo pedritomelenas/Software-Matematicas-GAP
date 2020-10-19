@@ -3,9 +3,9 @@
 
 # Software-Matematicas-GAP
 
-Bloque de [GAP](https://sebasguts.github.io/GAPLiveTutorialTest/chap0.html) de la asignatura [Software Matemáticas](http://masteres.ugr.es/doctomat/pages/info_academica/guias_docentes/2018/306/%21) del máster [Matemáticas](http://masteres.ugr.es/doctomat/).
+Bloque de [GAP](https://gap-system.org) de la asignatura [Software Matemáticas](http://masteres.ugr.es/doctomat/pages/info_academica/guias_docentes/2018/306/%21) del máster [Matemáticas](http://masteres.ugr.es/doctomat/).
 
-En la página oficial de [GAP](https://sebasguts.github.io/GAPLiveTutorialTest/chap0.html) se explica cómo instalar GAP para distintos sistemas operativos. En dicha página también hay manuales y tutoriales tanto de GAP como de las distintas libreras oficiales. Para macOs se puede usar [gap-ox-bundle](https://github.com/fingolfin/gap-osx-bundle) de [Max Horn](https://github.com/fingolfin) o [gap.app](https://cocoagap.sourceforge.io/) de [Russ Woodroofe](https://osebje.famnit.upr.si/~russ.woodroofe). También podéis utilizar la imagen docker de https://hub.docker.com/r/gapsystem/gap-docker/
+En la página oficial de [GAP](https://gap-system.org) se explica cómo instalar GAP para distintos sistemas operativos. En dicha página también hay manuales y tutoriales tanto de GAP como de las distintas libreras oficiales. Para macOs se puede usar [gap-ox-bundle](https://github.com/fingolfin/gap-osx-bundle) de [Max Horn](https://github.com/fingolfin) o [gap.app](https://cocoagap.sourceforge.io/) de [Russ Woodroofe](https://osebje.famnit.upr.si/~russ.woodroofe). También podéis utilizar la imagen docker de https://hub.docker.com/r/gapsystem/gap-docker/
 
 GAP está integrado en [SageMath](http://www.sagemath.org), así que si tenéis instalado SageMath, podéis ejecutar GAP con `sage --gap`.
 
