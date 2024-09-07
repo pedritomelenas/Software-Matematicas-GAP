@@ -1,5 +1,0 @@
-gap> 1+1;
-2
-gap> Exec("less log1");
-gap> Exec("less log1");
-gap> 
